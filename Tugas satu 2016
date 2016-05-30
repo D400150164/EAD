@@ -1,0 +1,29 @@
+1) Kawat Tembaga : R = 5,1X10^-2 Ohm
+	                 L = 15m
+	                 A = 5mm(kuadrat) = 5 x 10^-6 m(kuadrat)
+
+	R = rho x (L : A )
+	5,1X10^-2 Ohm = rho	x (15m : 5 x 10^-6)
+	5,1X10^-2     = rho x (3 x 10^6)
+      rho = 5.1 x 10^-2 : 3 x 10^6
+	  = 1.7 x 10^-8
+
+2) paku     : R = 3 Ohm
+	      L = 5 cm
+	      A = 1 cm(kuadrat)
+
+	R = rho x (L : A )
+	5 = rho	x (0,05 : 0,0001)
+	3 = rho 500
+      rho = 3 : 500
+	  = 0.006
+
+3) tutup panci : R = 10 Ohm
+	         L = 2 cm
+	         A = 415.3 cm(kuadrat)
+
+	 R = rho x (L : A )
+	10 = rh0 x (0,02 : 0,04156)
+	10 = rho 0.48
+       rho = 10 : 0.48
+	   = 20.8
